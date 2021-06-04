@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Korean university student studying to become a developer.
+
 <!--
 **uiseong4313/uiseong4313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
